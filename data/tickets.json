@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1777445651,
+        "employee": "Sonali",
+        "department": "IT",
+        "issue": "Server down",
+        "category": "General",
+        "priority": "P1",
+        "status": "OPEN",
+        "created": "2026-04-29 12:24:11.960816"
+    },
+    {
+        "id": 1777445782,
+        "employee": "SYSTEM",
+        "department": "IT",
+        "issue": "High Usage",
+        "category": "General",
+        "priority": "P1",
+        "status": "OPEN",
+        "created": "2026-04-29 12:26:22.183796"
+    }
+]
